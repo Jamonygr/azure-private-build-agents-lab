@@ -1,0 +1,1 @@
+{"skus":[{"name":"Standard_D2ads_v5","properties":{"family":"standardDADSv5Family","locations":["westeurope"],"restrictions":[]}}],"usages":[{"name":{"value":"standardDADSv5Family"},"currentValue":4,"limit":5}]}

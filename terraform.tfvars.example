@@ -1,0 +1,12 @@
+# Copy to .local/lab.tfvars. Never put credentials in this file.
+subscription_id = "00000000-0000-0000-0000-000000000000"
+tenant_id = "00000000-0000-0000-0000-000000000000"
+lab_id = "pbalab"
+azure_devops_organization_url = "https://dev.azure.com/your-organization"
+azure_devops_project_name = "Your existing project"
+pool_administrator_emails = ["operator@example.com"]
+devops_infrastructure_principal_id = "00000000-0000-0000-0000-000000000000"
+operator_principal_id = "00000000-0000-0000-0000-000000000000"
+# Temporarily enable only to seed a synthetic secret from a private-connected host.
+enable_secret_seed = false
+tags = { owner = "your-name" }

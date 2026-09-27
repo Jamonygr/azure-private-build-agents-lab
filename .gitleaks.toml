@@ -1,0 +1,6 @@
+title = "Azure Private Build Agents Lab"
+[extend]
+useDefault = true
+[allowlist]
+description = "Local runtime and provider caches are not source artifacts"
+paths = ['''(^|[/\\])(\.git|\.terraform|\.local)([/\\]|$)''']

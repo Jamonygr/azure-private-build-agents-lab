@@ -1,0 +1,12 @@
+formatter: markdown table
+header-from: main.tf
+footer-from: ""
+settings:
+  anchor: false
+  escape: true
+  html: false
+  hide-empty: true
+  read-comments: false
+sort:
+  enabled: true
+  by: name

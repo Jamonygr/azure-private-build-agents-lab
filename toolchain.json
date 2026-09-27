@@ -1,0 +1,12 @@
+{
+  "terraform": "1.16.4",
+  "azurerm": "5.6.0",
+  "powershell": "7.4+",
+  "pester": "5.7.1",
+  "tflint": "0.63.1",
+  "trivy": "0.72.0",
+  "gitleaks": "8.28.0",
+  "conftest": "0.68.2",
+  "terraform-docs": "0.24.0",
+  "python": "3.8+"
+}

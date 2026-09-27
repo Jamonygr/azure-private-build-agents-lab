@@ -1,0 +1,15 @@
+{
+  "resource_changes": [
+    {
+      "address": "azurerm_storage_account.state",
+      "type": "azurerm_storage_account",
+      "change": {
+        "after": {
+          "public_network_access": "Disabled",
+          "shared_access_key_enabled": false,
+          "allow_nested_items_to_be_public": false
+        }
+      }
+    }
+  ]
+}

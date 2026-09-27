@@ -1,0 +1,17 @@
+.terraform/
+.local/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.*
+*.auto.tfvars
+terraform.tfvars
+*.tfvars.json
+*.tfbackend
+!*.tfbackend.example
+crash*.log
+*.log
+__pycache__/
+.pytest_cache/
+TestResults.xml
+*.trx

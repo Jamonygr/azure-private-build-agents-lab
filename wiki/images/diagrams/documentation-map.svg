@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="980" viewBox="0 0 1280 980" role="img" aria-labelledby="title desc">
+<title id="title">Documentation map for the Azure Private Build Agents Lab</title>
+<desc id="desc">Start at the repository README. Choose the operator guides for procedures or the wiki and book for explanations. Follow the ten exercises, then consult references, validation guidance and operational runbooks.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#38bdf8"/></marker></defs>
+<style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#e2e8f0}.title{font-size:32px;font-weight:700}.sub{font-size:17px;fill:#94a3b8}.head{font-size:22px;font-weight:650}.body{font-size:17px}.small{font-size:15px;fill:#94a3b8}.edge{fill:none;stroke:#38bdf8;stroke-width:2.5;marker-end:url(#arrow)}</style>
+<rect width="1280" height="980" fill="#07111f"/><rect width="1280" height="8" fill="#0ea5e9"/>
+<text x="50" y="65" class="title">Documentation map</text>
+<text x="50" y="100" class="sub">AZURE PRIVATE BUILD AGENTS LAB  /  FIND THE NEXT USEFUL PAGE</text>
+<rect x="450" y="140" width="380" height="110" rx="12" fill="#12314b" stroke="#36566e" stroke-width="1.5"/>
+<text x="475" y="181" class="head">Repository README</text>
+<text x="475" y="216" class="body">Scope, quick start and navigation</text>
+<path d="M640 250 V290 H345 V318" class="edge"/>
+<path d="M640 290 H935 V318" class="edge"/>
+<rect x="120" y="330" width="450" height="140" rx="12" fill="#12314b" stroke="#36566e" stroke-width="1.5"/>
+<text x="145" y="371" class="head">Operator guides</text>
+<text x="145" y="406" class="body">Setup, identity, egress, cost and monitoring</text>
+<text x="145" y="439" class="small">docs/ — direct procedures</text>
+<rect x="710" y="330" width="450" height="140" rx="12" fill="#12314b" stroke="#36566e" stroke-width="1.5"/>
+<text x="735" y="371" class="head">Wiki and book</text>
+<text x="735" y="406" class="body">Architecture and the complete learning story</text>
+<text x="735" y="439" class="small">wiki/README.md + wiki/book.md</text>
+<path d="M345 470 V505 H640 V538" class="edge"/>
+<path d="M935 470 V505 H640" fill="none" stroke="#38bdf8" stroke-width="2.5"/>
+<rect x="440" y="550" width="400" height="135" rx="12" fill="#173e37" stroke="#36566e" stroke-width="1.5"/>
+<text x="465" y="591" class="head">Ten guided exercises</text>
+<text x="465" y="626" class="body">Steps, evidence, recovery and cleanup</text>
+<text x="465" y="657" class="small">wiki/exercises/README.md</text>
+<path d="M640 685 V725 H225 V773" class="edge"/>
+<path d="M640 725 V773" class="edge"/>
+<path d="M640 725 H1055 V773" class="edge"/>
+<rect x="50" y="785" width="350" height="125" rx="12" fill="#122238" stroke="#36566e" stroke-width="1.5"/>
+<text x="75" y="826" class="head">References</text>
+<text x="75" y="860" class="body">Inputs, outputs and module contracts</text>
+<text x="75" y="888" class="small">Generated references + wiki/reference/</text>
+<rect x="465" y="785" width="350" height="125" rx="12" fill="#122238" stroke="#36566e" stroke-width="1.5"/>
+<text x="490" y="826" class="head">Validation guidance</text>
+<text x="490" y="860" class="body">Offline checks and private-host evidence</text>
+<text x="490" y="888" class="small">docs/testing.md + wiki/testing/</text>
+<rect x="880" y="785" width="350" height="125" rx="12" fill="#122238" stroke="#36566e" stroke-width="1.5"/>
+<text x="905" y="826" class="head">Operational runbooks</text>
+<text x="905" y="860" class="body">Prerequisites, recovery and teardown</text>
+<text x="905" y="888" class="small">docs/runbooks/</text>
+<text x="50" y="950" class="small">Use procedures to act, the book to understand, and the evidence guides to state exactly what was verified.</text>
+</svg>

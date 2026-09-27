@@ -1,0 +1,13 @@
+misconfigurations:
+  - id: AVD-AZU-0010
+    paths:
+      - modules/private-services/main.tf
+    statement: Public access is disabled and trusted-service bypass is intentionally None; all Blob access uses a private endpoint.
+  - id: AVD-AZU-0057
+    paths:
+      - modules/private-services/main.tf
+    statement: Azure Monitor Blob diagnostic logs and Transaction metrics are enabled instead of legacy Storage Analytics logging.
+  - id: AVD-AZU-0060
+    paths:
+      - modules/private-services/main.tf
+    statement: The lab uses Azure-managed keys plus infrastructure encryption; a customer-managed key dependency is outside this lab.
