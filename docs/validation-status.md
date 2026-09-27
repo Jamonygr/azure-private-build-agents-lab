@@ -11,7 +11,7 @@
 | Workload apply, no-op plan and lease conflict | **LIVE NOT RUN** |
 | Live failure recovery and cleanup | **LIVE NOT RUN** |
 | Actual Managed DevOps agent job | **OUT OF SCOPE — NOT RUN** |
-| Repository publication | **NOT PUBLISHED** |
+| Repository publication | **PUBLIC — [GitHub repository](https://github.com/Jamonygr/azure-private-build-agents-lab)** |
 
 The combined offline command completed successfully on Windows at **2026-09-27 10:14 UTC**, against the initial authored working tree before its local baseline commit. No Azure deployment, live probe or account change was performed. Update this record only with observed results.
 

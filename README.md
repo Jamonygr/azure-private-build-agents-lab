@@ -42,7 +42,7 @@ The repository does not deploy a validation VM, VPN or Bastion. You must supply 
 3. Use [troubleshooting](docs/troubleshooting.md) and [cleanup](docs/runbooks/cleanup.md).
 4. Record actual outcomes in [validation status](docs/validation-status.md).
 
-Authoring these files has not deployed cloud resources, published the repository, or validated an actual pool job.
+The source is published on [GitHub](https://github.com/Jamonygr/azure-private-build-agents-lab). Cloud deployment, live validation and actual pool-job execution have not been performed.
 
 ## Local quick start
 
